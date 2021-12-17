@@ -11,7 +11,6 @@ The main file is the pdf report named `tutorial.pdf`.
 
 
 ## To replicate the result in the Bandit Algorithm Section of the report
-All the following files are located in "Bandit Algorithm Exploration" Folder
 1. For replicate ETC: `ETC.ipynb`
 2. For epsilon-greedy: `epsilon.ipynb`
 3. For replicate UCB and LinUCB: `UCB.ipynb`
