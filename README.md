@@ -5,7 +5,7 @@ The main file is the pdf report.
 
 ## To replicate the result in the CartPole Section of the report
 1. download the repository
-2. Run cart_experiments.ipynb (while the code is majorly stored in main.py)
+2. Run `cart_experiment.ipynb` (while the code is majorly stored in main.py)
 
 
 ## To replicate the result in the Bandit Algorithm Section of the report
