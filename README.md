@@ -1,7 +1,7 @@
 # RL_tutorial
 ## From STAT616 final project
 
-The main file is the pdf report.
+The main file is the pdf report named `tutorial.pdf`.
 
 ## To replicate the result in the CartPole Section of the report
 1. download the repository
