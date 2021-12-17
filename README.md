@@ -1,5 +1,7 @@
 # RL_tutorial
-## From STAT616 final project
+## The STAT616 final project
+
+The lecture is instructed by Professor [Wei Qian](https://sites.google.com/a/udel.edu/weiqian/). This lecture mainly focus on the SOTA RL techniques. Some materials in the report is directly taken from his lecture.
 
 The main file is the pdf report named `tutorial.pdf`.
 
