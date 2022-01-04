@@ -1,4 +1,4 @@
-# Reinforcement Learning tutorial
+# Reinforcement Learning Tutorial
 ## The STAT616 final project
 
 The lecture is instructed by Professor [Wei Qian](https://sites.google.com/a/udel.edu/weiqian/). This lecture mainly focus on getting first touch with reinforcement learning techniques. Some materials in the report is directly taken from his lecture notes. So **without permission of Professor Qian Wei, copy content from this directory is forbidden**.
